@@ -20,6 +20,7 @@ public class dz14 {
                 }
             }
         }
+        
         return count;
     }
 
@@ -29,12 +30,6 @@ public class dz14 {
         int number = number(scanner, "Введите сумму для выражения: ");
         int equality = equality_true(number);
         System.out.println("Количество решений: "+equality);
-
-
-
         scanner.close();
-
-
-        
     }
 }
