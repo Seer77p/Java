@@ -45,7 +45,9 @@ public class dz21 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String person_data = filling_out_data(scanner, "Введите данные человека(латинскими буквами): \n");
-        System.out.print((person_data)+"\n\n");
+        //String person_data1 = filling_out_data(scanner, "Введите данные человека(латинскими буквами): \n");
+        System.out.print((person_data) + "\n\n");
+        //System.out.print((person_data1)+"\n\n");
         System.out.print(isEmpty(select(person_data))+"\n\n");
         scanner.close();
     }
