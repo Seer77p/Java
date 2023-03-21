@@ -1,3 +1,4 @@
+// Реализовать алгоритм пирамидальной сортировки (HeapSort).
 package Java.DZ.dz5;
 
 import java.util.Arrays;
