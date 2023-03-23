@@ -1,4 +1,4 @@
-package Java.sem.sem6;
+package Java.sem.sem6.sem61;
 
 import java.util.LinkedHashSet;
 import java.util.TreeSet;

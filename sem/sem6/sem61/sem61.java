@@ -8,7 +8,7 @@
 //общее количество чисел в массиве.
 
 
-package Java.sem.sem6;
+package Java.sem.sem6.sem61;
 
 import java.util.Random;
 import java.util.Scanner;
